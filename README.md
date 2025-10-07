@@ -34,7 +34,7 @@ A comprehensive dashboard for statistical analysis of any numeric column, presen
 
 #### **Skewness Checker Tab**
 A dedicated section to analyze the asymmetry of your data's distribution.
-* **Skewness Coefficient:** Calculates and displays the skewness value for the selected column, helping you identify if the data is left-skewed, right-skewed, or symmetric.
+* **Skewness Check:** Helps you identify if the data is left-skewed, right-skewed, or symmetric.
 * **Distribution Histogram:** An interactive histogram that provides a clear visual representation of the data's distribution and skew.
 
 #### **Correlation Heatmap Tab**
